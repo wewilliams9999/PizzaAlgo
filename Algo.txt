@@ -1,2 +1,4 @@
-Step 1: Order the pizza
+Step 1: Order the pizza - either:
+    1a. Call pizza place
+    1b. Place order online
 Step 2: Wait for pizza to be delivered
